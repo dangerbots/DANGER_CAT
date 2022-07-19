@@ -8,7 +8,7 @@ covid
 cowpy
 dataclasses
 DateTime
-emoji
+emoji==1.7
 fake_useragent
 fonttools
 geopy
